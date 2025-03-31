@@ -77,7 +77,7 @@ the number of child nodes in the tree, and *child_list* is the list of their ids
 
 # Datasets
 
-This code has been tested with the graph datasets available [here][5]
+This code has been tested with the graph datasets available [here][5] or on [Zenodo][6]
 
 # Contributors
 
@@ -93,3 +93,4 @@ The source code is provided as-is under an MIT License.
 [3]: <http://silviu.maniu.info/>
 [4]: <http://sjog2.web.engr.illinois.edu/>
 [5]: <https://www.lri.fr/~maniu/treewidth/>
+[6]: <https://zenodo.org/records/15068283?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6ImI5MDI0YzU0LTg2MDktNGIzMi05OTlhLTc3YWE4OWM5ZTFkYiIsImRhdGEiOnt9LCJyYW5kb20iOiJiYmM2ODU5YmFjNmQ4OTUxNjM2M2I1MTlmMjA2ZGYzOSJ9.5_F1vO_WI3DLXJ6F8FTrVEF76B59xgfFqDG7jzyeDsnrK-8GvbyXW1JmnDKId2dxLjYJ718WeRe4xkGqc1kOzg>
